@@ -48,3 +48,21 @@ loops 5 times to find the even numbers between 1 and 10.
 if a is greater or equal to 20. yes
 if b is greater or equal to 25. yes
 25+30= 55.
+
+8. INITIATIVE
+string target = I 
+how many times does I appear in the given string word
+i = 0 i < 10 i++              count = 0  charAt(i) is I
+i= 0                          count = 1
+1
+2                             count = 2
+3
+4                             count = 3
+5
+6
+7                             count = 4
+8
+9
+10
+
+I appears 4 times in the given word
