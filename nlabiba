@@ -43,3 +43,8 @@ i = 1
 10++ = ? no can do, breaks the condition. loop exits.
 
 loops 5 times to find the even numbers between 1 and 10.
+
+7. scanning.. found &&. have to make sure both sides of the condition is true.
+if a is greater or equal to 20. yes
+if b is greater or equal to 25. yes
+25+30= 55.
