@@ -79,3 +79,7 @@ i = 4 15 % 5 = 0   count = 3
 i = 5 20 % 5 = 0   count = 4
 
 4 times. and within this array we have 4 numbers that are divisible by 5..
+
+10. simple tracing and multiplication
+name.length is 9
+9 times 3 is 27.
