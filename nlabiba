@@ -113,3 +113,10 @@ i = 2 i < = 16 i ++            count = 0 | i % 2 == 0
 16                                 count = 8.
 
 8 numbers are even between 2 and 16
+
+
+14..scanning...scanning found &&.
+result is gonna be 20.
+meets all the conditions, then add the integers 10 and 10.
+
+15.
