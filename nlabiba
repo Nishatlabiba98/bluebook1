@@ -9,3 +9,9 @@ i= 0,1,2                     count =0
  3, 4                                                count = 2.
 
  N appears in the given string 2 times.
+
+ 4. follow the loop and add the numbers, the values are being replaced as we go .
+{3, 6, 9}
+new nums[1]= nums[0] +3 = 3+3= 6
+new nums[2]= new nums [1] + nums[0] = 6+3 = 9
+total = nums[0] + nums[1] + nums[2] =3 + 6 + 9 = 18
